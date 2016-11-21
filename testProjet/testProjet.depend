@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479072413 source:c:\users\adrien\documents\ece cours\ing2\informatique\c++\tp5\testprojet\main.cpp
+	<iostream>
+	<vector>
+	<map>
+
+1479117020 source:c:\users\adrien\documents\github\projetsiaming2\testprojet\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

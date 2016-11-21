@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\adrien\documents\github\projetsiaming2\siam1.0\main.cpp
+	<iostream>
+
+1479320510 source:c:\users\adrien\documents\github\projetsiaming2\siam1.0\src\piece.cpp
+	"Piece.h"
+
+1479654317 c:\users\adrien\documents\github\projetsiaming2\siam1.0\include\piece.h
+	<map>
+
+1479328641 source:c:\users\adrien\documents\github\projetsiaming2\siam1.0\src\elephant.cpp
+	"Elephant.h"
+
+1479320364 c:\users\adrien\documents\github\projetsiaming2\siam1.0\include\elephant.h
+	<Piece.h>
+
